@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Temporary",
+  "Description": "Reusable temporary plugin.",
+  "Category": "Project",
+  "CanContainContent": true,
+  "Modules": [
+    {
+      "Name": "Temporary",
+      "Type": "Runtime",
+      "LoadingPhase": "PreDefault"
+    }
+  ]
+}
